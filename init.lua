@@ -1,5 +1,5 @@
 --       MIT License
---      Copyright (c) 2022 doodle
+--      Copyright (c) 2022 doodle, CoolJar10
 
 minetest.register_on_newplayer(function(player)
     minetest.chat_send_all(minetest.colorize("#ffa06b",
