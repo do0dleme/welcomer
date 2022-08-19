@@ -1,7 +1,7 @@
 --       MIT License
 --      Copyright (c) 2022 doodle
 
-minetest.register_on_joinplayer(function(player)
+minetest.register_on_newplayer(function(player)
     minetest.chat_send_all(minetest.colorize("#ffa06b",
     "[Server]: Give a warm welcome to newcomer, " .. player:get_player_name())
     )
