@@ -4,10 +4,10 @@
 local messages = {}
 
 messages.greeting = {
-    " just slid into the Wilderness, welcome.",
-    " , welcome to the Wilderness.",
-    " -- a wild survivor just appeared.",
-    " is now a wild pokemon.",
+    " just slid into the server, welcome.",
+    " , welcome to the server.",
+    " -- a wild player just appeared.",
+    " is in the server now.",
 }
 
 function messages.get_message(mtype)
