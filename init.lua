@@ -1,5 +1,5 @@
---       MIT License
---      Copyright (c) 2022 doodle
+--      LGPL v3.0 License
+--      Copyright (c) 2022 doodle, EvergreenTree
 
 local messages = {}
 
