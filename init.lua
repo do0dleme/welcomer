@@ -1,5 +1,5 @@
 --       MIT License
---      Copyright (c) 2022 doodle, CoolJar10
+--      Copyright (c) 2022 doodle
 
 local messages = {}
 
